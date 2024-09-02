@@ -1,3 +1,16 @@
+body {
+  transition: all .3s;
+}
+
+.bg-dark-mode {
+  background-color: #111;
+  color: #fff;
+}
+
+.bg-dark-mode span {
+  color: #fff !important;
+}
+
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
